@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://maratsumi.github.io",
+  "homepage": "https://geloav17.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
